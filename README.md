@@ -1,13 +1,22 @@
-# Aula05_e_06-18-08-2021_a_25-08-2021-API-JSON
+# Aula 05 (18-08-2021) e Aula 06 (25-08-2021) - API-JSON
 
-Aula 05 Ministrada no dia 18/08/2021 e Aula 06 ministrada no dia 25/08/2021 na UniAlfa de Umuarama.
+![Badge](https://img.shields.io/badge/Marcos%20Dias%20Vendramini-Android-green)
 
-Aplicativo com acesso a uma API JSON.
+### Aula 05 ministrada no dia 18/08/2021 e Aula 06 ministrada no dia 25/08/2021 para o quarto período na UniAlfa de Umuarama (1º Bimestre).
 
-Recursos disponíveis:
-<!--ts-->
-  * Acessar e carregar os dados da API JSON em um ListView.
-  * Baixar uma imagem da internet.
-  * Utilizar Threads para acessar os dados da API e para baixar a imagem.
-  * Navegar entre as telas passando parâmetros entre elas.
-<!--te-->
+## Aplicativo com acesso a uma API JSON.
+
+### Conteúdo
+
+- [x] Acessar e carregar os dados da API JSON em um ListView
+- [x] Baixar uma imagem da internet
+- [x] Criar uma Thread para acessar os dados da API
+- [x] Criar uma Thread para baixar a imagem da internet
+- [x] Navegar entre as telas passando parâmetros entre elas
+
+### Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Android](https://developer.android.com/)
+- [Android Studio](https://developer.android.com/studio)
