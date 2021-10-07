@@ -4,7 +4,7 @@
 
 ![Badge](https://img.shields.io/badge/Marcos%20Dias%20Vendramini-Android-green)
 
-### Aula 05 ministrada no dia 18/08/2021 e Aula 06 ministrada no dia 25/08/2021 para o quarto período na UniAlfa de Umuarama (1º Bimestre).
+### Aula 05 ministrada no dia 18/08/2021 e Aula 06 ministrada no dia 25/08/2021 para o quarto período do Curso de Sistemas para Internet da UniAlfa de Umuarama (1º Bimestre).
 
 ## Aplicativo com acesso a uma API JSON.
 
